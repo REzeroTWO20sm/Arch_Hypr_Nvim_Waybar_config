@@ -1,0 +1,114 @@
+   * {background-color: transparent;}
+   #custom-script {
+     color: #ffffff;
+     background-color: #282924;
+     padding: 5px;
+     margin-top: 2px;
+     margin-left: 2px;
+     opacity: 0.6;
+     font-family: Monospace;
+     border-radius: 3px;
+     transition: opacity 0.2s ease;
+   }
+   #custom-script:hover {
+     opacity: 0.8;
+   }
+   #custom-scriptt {
+     color: #ffffff;
+     background-color: #282924;
+     padding: 5px;
+     margin-top: 2px;
+     margin-left: 2px;
+     opacity: 0.6;
+     font-family: Monospace;
+     border-radius: 3px;
+     transition: opacity 0.2s ease;
+   }
+   #custom-scriptt:hover {
+     opacity: 0.8;
+   }
+   #custom-brightness {
+     background-color: #001d22;
+     color: #ffffff;
+     padding: 5px;
+     margin-top: 2px;
+     margin-right: 2px;
+     opacity: 0.6;
+     font-family: Monospace;
+     border-radius: 3px;
+     transition: opacity 0.2s ease;
+   }
+   #custom-brightness:hover {
+     opacity: 0.8;
+   }
+   #custom-volume {
+     background-color: #001d22;
+     color: #ffffff;
+     padding: 5px;
+     margin-top: 2px;
+     margin-right: 2px;
+     opacity: 0.6;
+     font-family: Monospace;
+     border-radius: 3px;
+   }
+   #battery {
+     background-color: #001d22;
+     color: #ffffff;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     padding-right: 5px;
+     margin-top: 2px;
+     margin-right: 0px;
+     opacity: 0.6;
+     font-family: Monospace;
+     border-radius: 3px;
+   }
+   #power-profiles-daemon {
+     background-color: #001d22;
+     color: #ffffff;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     padding-left: 5px;
+     padding-right: 2px;
+     margin-top: 2px;
+     margin-left: 2px;
+     opacity: 0.6;
+     font-family: Monospace;
+     border-radius: 3px;
+     transition: opacity 0.2s ease;
+   }
+   #power-profiles-daemon:hover {
+     opacity: 0.8;
+   }
+   #custom-keyboard {
+     background-color: #001d22;
+     color: #ffffff;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     padding-left: 5px;
+     margin-top: 2px;
+     margin-right: 0px;
+     opacity: 0.6;
+     font-family: Monospace;
+     border-top-left-radius: 3px; /* закругление для верхнего левого угла */
+     border-bottom-left-radius: 3px; /* закругление для нижнего левого угла */
+     transition: opacity 0.2s ease;
+   }
+   #custom-keyboard:hover {
+     opacity: 0.8;
+   }
+   #custom-keyboard_state {
+     background-color: #001d22;
+     color: #ffffff;
+     padding-top: 5px;
+     padding-bottom: 5px;
+     padding-right: 5px;
+     margin-top: 2px;
+     margin-right: 2px;
+     opacity: 0.6;
+     font-family: Monospace;
+     border-top-right-radius: 3px; /* закругление для верхнего левого угла */
+     border-bottom-right-radius: 3px; /* закругление для нижнего левого угла */
+   }
+   
+

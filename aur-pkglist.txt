@@ -1,0 +1,5 @@
+mpvpaper-debug
+shantz-xwinwrap-bzr
+shantz-xwinwrap-bzr-debug
+yay
+yay-debug
